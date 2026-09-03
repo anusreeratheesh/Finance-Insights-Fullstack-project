@@ -1,10 +1,10 @@
 # Finance Insights Application
 A full-stack web application that analyzes financial documents using NLP, AI, and sentiment analysis. It enables users to upload PDF files and extract meaningful insights such as entities, summaries, and sentiment scores for better understanding of complex financial data.
 
-<img width="1916" height="912" alt="infosys" src="https://github.com/user-attachments/assets/5a90598c-68e1-466b-9552-248082e3702f" />
-<img width="1872" height="758" alt="Screenshot 2026-04-08 235944" src="https://github.com/user-attachments/assets/24713581-01cc-4bdb-ae64-007d11dbf42c" />
-<img width="1814" height="895" alt="Screenshot 2026-04-09 000006" src="https://github.com/user-attachments/assets/6483eba1-6685-49d9-9264-cb104a8482f7" />
-<img width="1171" height="833" alt="Screenshot 2026-04-09 000018" src="https://github.com/user-attachments/assets/9d113624-55b9-4267-aa42-1fa4f8f6bcbd" />
+<img width="1918" height="957" alt="frontend1" src="https://github.com/user-attachments/assets/7dc49da6-20f0-4acf-b2c5-3787bdf6929b" />
+<img width="1918" height="951" alt="frontend2" src="https://github.com/user-attachments/assets/f8409e68-19b0-4063-9cef-fa2f37acf65f" />
+<img width="1918" height="952" alt="frontend3 (1)" src="https://github.com/user-attachments/assets/a86d2d02-472a-4632-bd4b-f25c6a8e6753" />
+<img width="1918" height="951" alt="frontend4" src="https://github.com/user-attachments/assets/9e4f33ae-87cc-46ce-b206-ba7607fe5b93" />
 
 ## Features
 - PDF document processing
